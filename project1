@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>MY Favourite Book</title>
+  </head>
+
+  <body>
+    <!-- Name of the book -->
+    <h1>
+
+
+Of Course I Love You ..! Till I Find Someone Better </h1>
+
+    <!-- Author of the book -->
+    <h2>by  ‎Durjoy Datta‎, Maanvi Ahuja	</h2>
+
+    <!-- Description of the book -->
+    <p>
+      Of Course I Love You is set in Delhi<br>, 2006–2008, and revolves around nightclubs, colleges, relationships and friendships. Debashish "Deb" Roy is a college student who has dated and bedded many girls. He is happy until he forms a relationship with a female named Avantika. Deb's life worsens as his relationship with Avantika deepens. Avantika is forced to listen to her spiritual "Guru" to leave Deb, ultimately dumping him. Deb is kicked out of his college placements and gets a job in a government office where his father used to work. He befriends the office genius Amit, who is inexperienced with girls, and waits for his life to improve and for Avantika to return to him.
+
+    </p>
+
+    <!-- Cover image of the book -->
+    <p>
+      <img src="C:\Users\hp\Desktop\pirple\project1\Ofcourseiloveyou.jpg" alt="book image">
+    </p>
+
+
+
+    <h2>Charaters in the book</h2>
+
+    <!-- Charaters in the book -->
+    <table>
+      <tr>
+        <th><strong>Debashish (Deb) Roy
+</strong></th>
+        
+      </tr>
+      <tr>
+        
+        <td><strong>Avantika (Last Girlfriend)
+</strong></td>
+      </tr>
+      <tr>
+       
+        <td><strong>Vernita (Friend)
+</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Neeti
+</strong></td>
+      </tr>
+      <tr>
+       
+        <td><strong>Amit
+</strong></td>
+      </tr>
+      <tr>
+        
+        <td><strong>Shrey
+</strong></td>
+      </tr>
+      <tr>
+       
+        <td><strongTanmay (avantika's brother)
+</strong></td>
+      </tr>
+      <tr>
+       
+        <td><strong>Astha
+</strong></td>
+      </tr>
+  
+       <td><strong>Sonali (Deb's younger sister)
+</strong></td>
+      </tr>
+      <tr>
+       
+        <td><strong>Moushmi (Deb's elder sister)
+</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Shivam Asr
+</strong></td>
+      </tr>
+      <tr>
+       
+        <td><strong>manika
+</strong></td></table>
+
+    <h2>Rate this book</h2>
+
+    <!-- Rating with a form, select and button -->
+    <form>
+      <select name="rating">
+        <option value="-">Choose your rating</option>
+        <option value="1">★ 1 star</option>
+        <option value="2">★★ 2 stars</option>
+        <option value="3">★★★ 3 stars</option>
+        <option value="4">★★★★ 4 stars</option>
+        <option value="5">★★★★★ 5 stars</option>
+      </select>
+
+      <button>Save rating</button>
+    </form>
+
+    <h2>my video</h2>
+
+    <!-- Embedded YouTube video -->
+    <p>
+  <iframe width="1686" height="613" src="https://www.youtube.com/embed/ucvmNfvVPzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"></iframe>
+    </p>
+
+    <!-- List of some resources to learn more about the book -->
+    <h2>More information</h2>
+
+    <ul>
+      <li><a href="https://www.fantasticfiction.com/d/durjoy-datta/of-course-i-love-you-.htm">fantastic fiction</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Of_Course_I_Love_You_..!_Till_I_Find_Someone_Better">Wikipedia</a></li>
+      <li><a href="https://www.goodreads.com/book/show/7011879-of-course-i-love-you-till-i-find-someone-better">Goodreads</a></li>
+    </ul>
+
+    <!-- List of 11 new tags used in this project -->
+    <h2>List of new tags</h2>
+
+    <ul>
+      <li>meta</li>
+      <li>table</li>
+      <li>th</li>
+      <li>tr</li>
+      <li>td</li>
+      <li>strong</li>
+      <li>form</li>
+      <li>select</li>
+      <li>option</li>
+      <li>button</li>
+      <li>iframe</li>  
+<li>footer</li>
+  <li>br</li>
+    </ul>
+
+  <footer> <p >copyright by mahima khanna
+                
+            </p>
+        </footer>
+  </body>
+</html>
