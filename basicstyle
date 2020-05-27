@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title><h1>my recipe</h1></title>
+ <style>
+      body {
+        background-color: lightblue;
+      }
+
+#hello
+{ color:green;}
+      p {
+        font-size: 32px;
+      }
+
+      h1, h2 {
+        padding-bottom: 30px;
+      }
+
+      h1 {
+        font-weight: bold;
+        text-decoration: underline;
+        font-size: 50px;
+      }
+
+      h2 {
+        text-align: center;
+      }
+
+      img {
+        width: 300px;
+      }
+    </style>
+<!-- Description of the dish -->
+
+    <p>Tea is an aromatic beverage commonly prepared by pouring hot or
+ boiling water over cured leaves of the Camellia sinensis, an evergreen shrub (bush) 
+native to East Asia. After water, it is the most widely consumed drink in the world. 
+ Tea has a stimulating effect in humans primarily due to its caffeine content.</p>
+  </head>
+
+  <body>
+    <!-- List of ingredients -->
+<DIV id="hello"><H1>TEA-A SOOTHING DRINK<H1></DIV>
+    <ul>
+      <li>8cardamom seeds</li>
+      <li>8 cloves</li>
+      <li> 4 black peppercorns</li>
+      <li>  2 cinnamon sticks</li>
+      <li>1 1-inch piece fresh ginger</li>
+      <li>2 cups whole milk</li>
+      <li> 4 bags black tea (such as Darjeeling)</li>
+      <li> 8 teaspoons sugar or more, to taste</li>
+        
+      
+    </ul>
+
+    <!-- Steps of the recipe -->
+    <ol>
+      <li>Place the cardamom, cloves, and peppercorns in a resealable plastic bag and 
+crush with a heavy skillet</li>
+      <li>Place the crushed spices in a medium saucepan🥘, along with the cinnamon sticks, ginger, milk🥛, and 2 cups🥤🥤 water,
+      bring to a boil. Remove from heat🥘🥘, add the tea bags, cover, and let steep for 10 
+minutes.</li>
+      <li>Strain into cups.☕ To each cup, add 2 teaspoons 🥄🥄sugar or more, to taste.☕</li>
+  
+    </ol>
+ <!-- Describe what the dish should look, smell and taste like -->
+    <p>But there are more ways to describe tea than using just words
+ like “yum,” “mmmm,” and “ahhh.” The tea that you taste can be described as 
+sour and sweet to spicy and earthy. Most teas matches its description like Creamy 
+Caramel or Sweet Lemon,
+ which makes it easy to identify the taste before even tasting it</p>
+
+    <!-- An image of the dish -->
+    <p>
+      <img src="C:\Users\hp\Desktop\pirple\image\img1.jpg" alt="tea image" />
+    </p>
+ <h2>Another favorite recipes</h2>
+
+    <ul>
+      <li><a href="https://foodviva.com/masala-recipes/tea-masala-powder-chai-masala/">Tea Masala Powder (Chai Masala) Recipe</a></li>
+      <li><a href="https://foodviva.com/tea-recipes/masala-chai-recipe/"> Masala Chai Recipe</a></li>
+      <li><a href="https://www.vegrecipesofindia.com/ginger-tea-indian-ginger-tea-with-milk/">Ginger tea</a></li>
+      <li><a href="https://www.thekitchn.com/how-to-make-kombucha-tea-at-home-cooking-lessons-from-the-kitchn-173858">Fermented tea</a></li>
+      <li><a href="https://vaya.in/recipes/details/herbal-tea/">Herbal tea </a></li>
+    </ul>
+  </body>
+</html>
